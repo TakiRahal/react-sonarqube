@@ -57,3 +57,7 @@ The Best way to Analyze React Project with SonarQube
 
     Run test-sonar
     Run sonar
+
+## DEMO 
+    
+[![IMAGE ALT TEXT HERE](https://github.com/TakiRahal/angular-sonarqube/blob/main/src/assets/demo.png)](https://youtu.be/IiybegzgNuE)
