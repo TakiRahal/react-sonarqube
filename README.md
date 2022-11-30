@@ -60,4 +60,4 @@ The Best way to Analyze React Project with SonarQube
 
 ## DEMO 
     
-[![IMAGE ALT TEXT HERE](https://github.com/TakiRahal/angular-sonarqube/blob/main/src/assets/demo.png)](https://youtu.be/IiybegzgNuE)
+[![IMAGE ALT TEXT HERE](https://github.com/TakiRahal/react-sonarqube/blob/main/public/demo-react-sonarqube.png)](https://youtu.be/IiybegzgNuE)
